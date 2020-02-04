@@ -1,0 +1,22 @@
+{
+  "name": "postman",
+  "version": "1.0.0",
+  "description": "- Github [Repo link](https://github.com/mojaloop/postman)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaloop/postman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojaloop/postman/issues"
+  },
+  "homepage": "https://github.com/mojaloop/postman#readme",
+  "dependencies": {
+    "newman": "^4.5.7"
+  }
+}
